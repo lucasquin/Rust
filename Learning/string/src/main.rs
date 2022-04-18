@@ -33,4 +33,7 @@ fn main() {
     cat.push('c');                // .push only char
     cat.push_str("at");          // .push_str string
     println!("{}", cat);
+    
+    let new_city = city.replace("Goiânia", "Ap. Goiânia");
+    println!("{} \n{}", city.replace("Goiânia", "Goianira"), new_city);
 }
