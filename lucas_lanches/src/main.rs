@@ -20,4 +20,5 @@ fn main() {
     println!("--------------------------------------------");
     println!("-- Bem vindos a padaria do Lucas Lanches! --");
     println!("--------------------------------------------");
+    println!("Faça teu pedido ai men");
 }
