@@ -1,7 +1,7 @@
 /// Create date: 16/04/2022
 /// Project: Learning the Rust language
 /// by Lucas Lopes Quintino
-
+ 
 // Import library
 use std::io;
 
