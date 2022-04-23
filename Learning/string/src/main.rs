@@ -23,6 +23,7 @@ fn main() {
     println!("{}", dog);
     println!("{}", br);
     println!("{}", country);
+    println!("{}", dog);
 
     // format!
     let city = format!("The city is {}, located in the state of Goiás, {}.", "Goiânia", country);
