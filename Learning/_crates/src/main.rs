@@ -1,3 +1,7 @@
+/// Create date: 25/04/2022
+/// Project: Learning the Rust language
+/// by Lucas Lopes Quintino
+
 // Original name
 // use crate::archive::arch::arch_file;
 
